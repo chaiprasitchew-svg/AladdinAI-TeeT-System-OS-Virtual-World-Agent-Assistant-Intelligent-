@@ -1,4 +1,4 @@
-# 11. Multi-Agent Swarm Orchestration & Autonomous Tools Architecture
+   # 11. Multi-Agent Swarm Orchestration & Autonomous Tools Architecture
 
 * Status: accepted
 * Deciders: Aladdin, DeepMind Agentic Team
